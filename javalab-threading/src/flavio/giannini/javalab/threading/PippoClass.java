@@ -1,5 +1,5 @@
 package flavio.giannini.javalab.threading;
 
-public class NewInFuture2 {
+public class PippoClass {
 
 }
